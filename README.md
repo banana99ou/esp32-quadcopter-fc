@@ -1,4 +1,4 @@
-# High Maneuverability UAV Project
+# esp32-quadcopter-fc
 
 ESP32-based quadcopter flight controller using an MPU-6050 IMU with DMP (Digital Motion Processor) for attitude estimation, PID control for stabilisation, and iBus receiver input from an RC transmitter.
 
